@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Como vecino de la comunidad quiero reportar un problema de alumbrado público en mi calle para que el barrio sea más seguro durante la noche.
+2. Como ciudadano quiero recibir una confirmación con un número de ticket al momento de registrar una incidencia para poder hacerle seguimiento en el futuro.
+
+¿Por qué son las más importantes?
+Son las más importantes porque representan la funcionalidad principal y crítica (el "core") del sistema. Sin la capacidad de que los ciudadanos ingresen reportes y obtengan la seguridad de que fueron recibidos (el ticket de seguimiento), el sistema no tiene utilidad ni datos. Las herramientas de gestión y estadísticas se pueden desarrollar en iteraciones posteriores, cuando ya exista información con la cual trabajar.
+
+¿Qué significa para ti que una tarea esté "terminada"?
+Definición de terminado (Done):
+- La funcionalidad opera correctamente según lo solicitado y cumple el propósito para el usuario final.
+- El código fue probado para asegurar que no presenta errores ni afecta otras partes del sistema.
+- Los cambios fueron revisados y quedaron registrados oficialmente en el repositorio de Git.
