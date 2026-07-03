@@ -1,0 +1,7 @@
+1. Como vecino de la comunidad quiero reportar un problema de alumbrado público en mi calle para que el barrio sea más seguro durante la noche.
+
+2. Como administrador de la junta vecinal quiero poder clasificar los reportes recibidos (seguridad, limpieza, infraestructura) para asignarlos rápidamente a los encargados correspondientes.
+
+3. Como ciudadano quiero recibir una confirmación con un número de ticket al momento de registrar una incidencia para poder hacerle seguimiento en el futuro.
+
+4. Como líder comunitario quiero poder visualizar un resumen mensual de los problemas solucionados para presentarlo en la asamblea de vecinos.
