@@ -4,7 +4,8 @@ Flujo simple de automatización usando n8n y Telegram para un sistema de veedur�
 Evento: El estado de un reporte ciudadano cambia a "En reparación" o "Solucionado" en nuestra plataforma principal.
 
 ¿Qué mensaje se enviaría a Telegram?
-Mensaje: "🔔 Actualización: El reporte sobre alumbrado público en la zona norte ha sido marcado como 'En reparación'. Te mantendremos informado sobre su progreso."
+Mensaje: " Actualización: El reporte sobre alumbrado público en la zona norte ha sido marcado como 'En reparación'. Te mantendremos informado sobre su progreso."
 
 ¿Qué información no debería enviarse por seguridad?
-Información que no debe enviarse: El nombre completo del ciudadano que hizo el reporte, su número de identificación (cédula), su teléfono personal, ni la dirección exacta de su residencia, ya que son datos sensibles que podrían exponer su identidad y vulnerar su privacidad si el mensaje se envía a un canal comunitario público o si es interceptado.
+Información que no debe enviarse: El nombre completo del ciudadano que hizo el reporte, su número de identificación (cédula), su teléfono personal, ni la dirección exacta de su residencia, 
+ya que son datos sensibles que podrían exponer su identidad y vulnerar su privacidad si el mensaje se envía a un canal comunitario público o si es interceptado.
